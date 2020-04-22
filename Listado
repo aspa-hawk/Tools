@@ -1,0 +1,218 @@
+The Offensive Manual Web Application Penetration Testing Framework
+TIDoS-Framework: https://github.com/0xInfection/TIDoS-Framework
+
+Escáner de aplicaciones web para realizar OSINT y Fuzzing para las vulnerabilidades descritas por OWASP para sitios web: 
+https://github.com/1N3/BlackWidow
+
+ReconCobra https://github.com/haroonawanofficial/ReconCobra/blob/master/README.md  
+Android Pentesting https://github.com/riddhi-shree/nullCommunity/blob/master/Android/README.md  
+blaCCkHatHacEEkr/PENTESTING-BIBLE https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/README.md  
+A better zip bomb https://www.bamsoftware.com/hacks/zipbomb/
+Red Teaming Toolkit Collection https://0xsp.com/offensive/red-teaming-toolkit-collection 
+Uniscan: conoce esta herramienta para buscar vulnerabilidades en cualquier aplicación web
+https://www.redeszone.net/2019/02/23/uniscan-buscar-vulnerabilidades/
+Pompem: conoce esta herramienta para buscar vulnerabilidades y exploits
+https://www.redeszone.net/2019/02/17/pompem-buscar-vulnerabilidades/
+
+Redteam Toolkit https://github.com/shr3ddersec/Shr3dKit
+https://github.com/vysecurity/RedTips/blob/master/README.md
+SQL Injection Knowledge Base https://websec.ca/kb/sql_injection
+How to Create a Malware Detection System With Machine Learning 
+https://www.evilsocket.net/2019/05/22/How-to-create-a-Malware-detection-system-with-Machine-Learning/Kali Linux Tools Listing
+https://tools.kali.org/tools-listingSecLists Package Description
+https://tools.kali.org/password-attacks/seclists
+Gobuster Package Description https://tools.kali.org/web-applications/gobuster
+hashcat Package Description https://tools.kali.org/password-attacks/hashcat
+john Package Description https://tools.kali.org/password-attacks/john
+Accessing an SMB Share With Linux Machines https://www.tldp.org/HOWTO/SMB-HOWTO-8.html
+
+Windows Exploit Suggester - Next Generation (WES-NG): https://github.com/bitsadmin/wesng
+Configuration Hardening Assessment PowerShell Script (CHAPS): https://github.com/cutaway-security/chaps
+Detect Tactics, Techniques & Combat Threats: https://github.com/rabobank-cdc/DeTTECT
+Herramientas para probar y auditar redes ZigBee e IEEE 802.15.4: https://gurudelainformatica.es/herramientas-para-probar-y-auditar-redes-zigbee-e-ieee-802-15-4
+Web Hacker's Weapons: https://github.com/hahwul/WebHackersWeapons
+Welcome to the Windows Terminal, Console and Command-Line repo: https://github.com/microsoft/terminal/blob/master/README.md
+Bypassing Web-Application Firewalls by abusing SSL/TLS: https://0x09al.github.io/waf/bypass/ssl/2018/07/02/web-application-firewall-bypass.html
+
+Welcome to the Application Inspector Wiki!: https://github.com/Microsoft/ApplicationInspector/wiki
+The Book of Secret Knowledge: https://github.com/trimstray/the-book-of-secret-knowledge
+Awesome Hacking: https://github.com/Hack-with-Github/Awesome-Hacking
+Awesome Web Hacking: https://github.com/infoslack/awesome-web-hacking
+Awesome Bug Bounty: https://github.com/djadmin/awesome-bug-bounty
+Awesome Penetration Testing: https://github.com/wtsxDev/Penetration-Testing
+Awesome Penetration Testing: https://github.com/enaqx/awesome-pentest
+Awesome Hacking Resources: https://github.com/vitalysim/Awesome-Hacking-Resources
+Awesome Red Teaming: https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
+Awesome Web Security: https://github.com/qazbnm456/awesome-web-security
+Penetration Test Guide based on the OWASP: https://github.com/Voorivex/pentest-guide
+Pentest Compilation: https://github.com/adon90/pentest_compilation
+Infosec Reference: https://github.com/rmusser01/Infosec_Reference
+
+Pruebas a app web
+https://dvwa.securityhacklabs.net/login.php
+
+Offensive Security Tool for Reconnaissance and Information Gathering
+https://github.com/evyatarmeged/Raccoon
+
+cve-search - a tool to perform local searches for known vulnerabilities
+https://github.com/cve-search/cve-search
+
+How to Create a Malware Detection System With Machine Learning
+https://www.evilsocket.net/2019/05/22/How-to-create-a-Malware-detection-system-with-Machine-Learning/
+
+CQTools - The New Ultimate Windows Hacking Toolkit
+https://www.kitploit.com/2019/05/cqtools-new-ultimate-windows-hacking.html?m=1
+
+Browser Extension Analysis Framework
+https://github.com/Tuhinshubhra/ExtAnalysis
+
+Resources-for-Beginner-Bug-Bounty-Hunters
+https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/README.md
+
+SANS & Offensive-Security
+http://d-l.serveurperso.fr/securite/CERTCOLLECTION%20-%20BASELINE%20-%20SANS%20%26%20Offensive-Security/
+
+A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+https://github.com/swisskyrepo/PayloadsAllTheThings
+
+A Pentester’s Guide – Part 1 (OSINT – Passive Recon and Discovery of Assets)
+https://www.sequoiacybersolutions.com/a-pentesters-guide-part-1-osint-passive-recon-and-discovery-of-assets/
+
+A Pentester’s Guide Part 2 (OSINT – LinkedIn is Not Just for Jobs)
+https://www.sequoiacybersolutions.com/a-pentesters-guide-part-2-osint-linkedin-is-not-just-for-jobs/
+
+Mr-Robot: 1: https://www.vulnhub.com/entry/mr-robot-1,151/
+https://www.hacker101.com/videos
+
+Capture the Flag Challenges (Resueltos)
+https://www.hackingarticles.in/capture-flag-challenges/
+
+CNIT 129S: Securing Web Applications
+https://samsclass.info/129S/129S_S19.shtml
+CNIT 129S - Ch 6: Attacking Authentication
+https://www.youtube.com/watch?v=z3qdGYTrns4&feature=youtu.be
+
+GrrCon 2015 - Memory Forensics - Grabbing all the Flags... 
+http://www.ghettoforensics.com/2016/05/grrcon-2015-memory-forensics-grabbing.html
+
+Athena Botnet Source Code
+https://github.com/3val/Athena
+
+https://github.com/chenerlich/FCL
+https://gitlab.com/HackMadrid/CTF-Writeups/blob/master/WriteUps%2028-10-2018/Desencripta%20esto/info.txt
+https://github.com/jesux/ctf-write-ups/tree/master/honeycon-2018/rev4
+https://c43s4rs.blogspot.com/2018/11/writeup-ctf-hackmadrid-termina-la.html?m=1
+https://comunidad.dragonjar.info/discussion/9832/guia-de-auto-estudio-para-la-escritura-de-exploits/p1?new=1
+https://blog.segu-info.com.ar/2018/10/lolbas-coleccion-de-scripts-para.html
+https://monitor.firefox.com/
+https://blog.segu-info.com.ar/2018/09/examen-de-prueba-para-estudiantes-del.html
+https://attackdefense.com/
+https://pasta.cf/brain-shower-park
+https://capt-meelo.github.io/category/osceprep
+http://0xc0ffee.io/blog/OSCP-Goldmine
+https://www.fuzzysecurity.com/index.html
+https://www.youtube.com/user/dhakkan3/videos
+https://www.abatchy.com/2017/03/osce-study-plan
+https://fundacion-sadosky.github.io/guia-escritura-exploits/buffer-overflow/1-introduccion.html
+http://overthewire.org/wargames/natas/
+https://support.offensive-security.com/#!oscp-exam-guide.md
+https://gist.github.com/s4vitar/b88fefd5d9fbbdcc5f30729f7e06826e
+https://github.com/ggerganov/kbd-audio
+https://github.com/jesux/ctf-write-ups
+https://whatismyipaddress.com/trace-email
+
+Welcome to CommandoVM - a fully customized, Windows-based security distribution for penetration testing and red teaming: 
+https://github.com/fireeye/commando-vm
+
+ATSCAN SCANNER v17.0.0: Búsqueda avanzada y Escáner de explotación masiva
+https://hackingteamtheworld.wordpress.com/2019/03/27/se-lanzo-atscan-scanner-v17-0-0-busqueda-avanzada-y-escaner-de-explotacion-masiva/
+
+Guia de uso de BurpSuite en Español 
+https://www.sniferl4bs.com/p/guia-de-uso-de-burpsuite.html?m=1
+_____________________________________
+
+An authoritative list of awesome devsecops tools
+https://github.com/devsecops/awesome-devsecops
+
+Useful OSCP Notes & Commands
+https://medium.com/@falconspy/useful-oscp-notes-commands-d71b5eda7b02
+
+Awesome Hacking
+https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md
+
+INE - OSCP Security Technology Course
+https://drive.google.com/drive/folders/1rycUpceJbLvAGY8UmCO9CKD-WbWNtBF5
+
+Rawsec's CyberSecurity Inventory
+https://inventory.rawsec.ml/tools.html
+
+Resource: Exploit Development Tutorials and Guides
+https://www.peerlyst.com/posts/resource-exploit-development-tutorials-and-guides-chiheb-chebbi
+
+PcapXray v2.5 - A Network Forensics Tool To Visualize A Packet Capture Offline As A Network Diagram
+https://amp.kitploit.com/2019/06/pcapxray-v25-network-forensics-tool-to.html
+
+https://gchq.github.io/CyberChef/
+
+Reversing Resources
+https://reversing.io/resources/
+
+List of bug bounty writeups
+https://pentester.land/list-of-bug-bounty-writeups.html
+
+http://www.allitebooks.org/
+_____________________________________
+
+Web Application Penetration Testing Notes: https://techvomit.net/web-application-penetration-testing-notes/
+Awesome Red Teaming: https://github.com/yeyintminthuhtut/Awesome-Red-Teaming/blob/master/README.md
+Change and Access Auditing, Systems Management and Identity Management: https://www.netwrix.com/freeware_tools.html
+Charla Forense: https://loreto.ccn-cert.cni.es/index.php/s/DG4oEF8jKihi94k
+Guía para un peritaje a PDFs: https://www.sombrero-blanco.com/seguridad-informatica/guia-para-un-peritaje-informatico-a-pdfs/
+TOR Forensics. Parte 1: https://glider.es/tor-forensics-parte-1/
+
+Exploiting a HQL injection: https://medium.com/@SecurityBender/exploiting-a-hql-injection-895f93d06718
+
+Tools
+A scripted pipeline of tools to streamline the bug bounty/penetration test reconnaissance phase, 
+so you can focus on chomping bugs: 
+https://github.com/SolomonSklash/chomp-scan
+
+CarbonCopy - A Tool Which Creates A Spoofed Certificate Of Any Online Website And Signs An Executable For AV Evasion: 
+https://www.kitploit.com/2019/03/carboncopy-tool-which-creates-spoofed.html
+
+_____________________________________
+
+RED TEAM
+blaCCkHatHacEEkr/PENTESTING-BIBLE
+https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/README.md
+
+A Red-Teamer diaries https://github.com/ihebski/A-Red-Teamer-diaries/blob/master/README.md
+
+Red Team Resources https://github.com/rosonsec/RedTeam
+
+Red team Learning resources https://github.com/abhijithbr/Red-team-Learning-resources
+
+Awesome Windows Red Team https://github.com/marcosValle/awesome-windows-red-team
+
+Extensible Red Team Framework https://github.com/KCarretto/Arsenal
+
+Red Team Scripts https://github.com/threatexpress/red-team-scripts
+
+Red Team Tips by @vysecurity https://github.com/vysecurity/RedTips
+
+Atomic Red Team https://github.com/redcanaryco/atomic-red-team
+
+Red Teaming/Adversary Simulation Toolkit https://github.com/infosecn1nja/Red-Teaming-Toolkit
+
+Wiki to collect Red Team infrastructure hardening resources https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
+
+Awesome Red Teaming https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
+
+_______________________________________________________________________
+
+A list of useful payloads and bypass for Web Application Security and Pentest/CTF 
+https://github.com/swisskyrepo/PayloadsAllTheThings
+
+_______________________________________________________________________
+
+Antivirus Evasion with Python https://medium.com/bugbountywriteup/antivirus-evasion-with-python-49185295caf1
